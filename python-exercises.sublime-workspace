@@ -75,6 +75,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "eve.txt",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -138,6 +146,12 @@
 	],
 	"file_history":
 	[
+		"/Users/hsateila/Documents/GitHub/WorldClock/index.html",
+		"/Users/hsateila/Library/Caches/com.binarynights.ForkLift-3/51E02D66-E668-4296-A4CC-E59E130CBBD5/.htaccess",
+		"/Users/hsateila/Documents/GitHub/Python-excercises/eve.txt",
+		"/Users/hsateila/Library/Caches/com.binarynights.ForkLift-3/496BD1EE-7AAD-44B0-AA3C-C7D113CD68C9/kinkamo-tyyli.css",
+		"/Users/hsateila/Library/Caches/com.binarynights.ForkLift-3/86A8F404-2CBC-439D-A059-0AD12CBEF37E/template.css",
+		"/Users/hsateila/Documents/GitHub/Python-excercises/acronym.py",
 		"/Users/hsateila/Documents/GitHub/Python-excercises/README.md",
 		"/Users/hsateila/Documents/GitHub/Python-excercises/examples/madlib2.py",
 		"/Users/hsateila/Documents/GitHub/Python-excercises/countTo.py",
@@ -259,13 +273,7 @@
 		"/Users/hsateila/Library/Caches/com.binarynights.ForkLift2/#1/configuration.php",
 		"/Users/hsateila/Documents/WWW-projektit/Mikkelininsinoorit.fi/uusisivu-backup/mi-content.sql",
 		"/Users/hsateila/Documents/WWW-projektit/Mikkelininsinoorit.fi/uusisivu-backup/j25_content.sql",
-		"/Users/hsateila/Documents/WWW-projektit/Mikkelininsinoorit.fi/uusisivu-backup/j25_menu.sql",
-		"/Users/hsateila/Documents/WWW-projektit/Mikkelininsinoorit.fi/Teema/mi-oletuspohja/css/editor.css",
-		"/Users/hsateila/Documents/WWW-projektit/Mikkelininsinoorit.fi/Backups/templates/mi-oletuspohja/templateDetails.xml",
-		"/Users/hsateila/Dropbox/Python/examples/testSumList.py",
-		"/Users/hsateila/Dropbox/Python/examples/joinAll.py",
-		"/Users/hsateila/Library/Caches/com.binarynights.ForkLift2/#0/index.php",
-		"/Applications/MAMP/bin/phpMyAdmin/config.inc.php"
+		"/Users/hsateila/Documents/WWW-projektit/Mikkelininsinoorit.fi/uusisivu-backup/j25_menu.sql"
 	],
 	"find":
 	{
@@ -300,8 +308,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "eve.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
